@@ -1,4 +1,4 @@
-路径：/Users/linyahuang/Project Color
+路径：cd /Users/linyahuang/Project\ Color
 
 🎨 Project Color（知色）
 一款基于本地视觉计算与 AI 语义分析的 智能色彩风格分析 App
